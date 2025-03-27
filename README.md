@@ -31,9 +31,10 @@ import seaborn as sns
 
 ## Usage
 
-1. Clone the repository and ensure the necessary libraries are installed.  
-2. Open the Jupyter Notebook and follow the analysis workflow.  
-3. Run each section sequentially to reproduce the results.  
+1. Clone the repository and ensure the necessary libraries are installed.
+2. Make sure you've downloaded the dataset.  
+3. Open the Jupyter Notebook and follow the analysis workflow.  
+4. Run each section sequentially to reproduce the results.  
 
 ## Results and Insights
 
